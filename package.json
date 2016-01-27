@@ -1,0 +1,26 @@
+{
+  "name": "fis3-parser-undertpl",
+  "version": "1.0.2",
+  "description": "fis3 plugin for underscore template parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guananddu/fis3-parser-undertpl.git"
+  },
+  "keywords": [
+    "underscore",
+    "template"
+  ],
+  "author": "pooky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guananddu/fis3-parser-undertpl/issues"
+  },
+  "homepage": "https://github.com/guananddu/fis3-parser-undertpl#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
